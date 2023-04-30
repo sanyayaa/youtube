@@ -2,7 +2,7 @@
   "name": "youtube",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/sanyayaa/youtube.git",
+  "homepage":"https://sanyayaa.github.io/youtube-gh-pages",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
